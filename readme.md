@@ -132,4 +132,3 @@ Modern pools use:
    - Simulate different hardware speeds
    - Show time-to-block probability curves
 
-This technical breakdown shows exactly how Bitcoin miners search for nonces, the limitations of the 32-bit space, and optimizations used in modern mining operations. Would you like additional details on any specific aspect?
